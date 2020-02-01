@@ -1,0 +1,38 @@
+.imgCliente {
+    width: 50%;
+}
+
+#txtCliente {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+.btnSubmit {
+    margin-left: 30px;
+    background-color: #1a9949;
+    border-color: #1a9949;
+}
+
+.btnSubmit:hover {
+    background-color: #10612e;
+    border-color: #10612e;
+}
+
+.btnCadastroAnimal {
+    margin-left: 30px;
+    background-color: #ae340b;
+    border-color: #ae340b;
+}
+
+.btnCadastroAnimal:hover {
+    background-color: #6e2006;
+    border-color: #6e2006;
+}
+
+.flexcontainerCadastroCliente {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}

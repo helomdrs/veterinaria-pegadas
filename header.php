@@ -10,6 +10,7 @@
   <!-- Fim do Boostrap -->
   <link rel="stylesheet" href="css/header-style.css">
   <link rel="stylesheet" href="css/index-style.css">
+  <link rel="stylesheet" href="css/cadastro-style.css">
 
 
   <title>Veterinária Pegadas</title>

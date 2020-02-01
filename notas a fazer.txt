@@ -1,1 +1,1 @@
-colocar os botões da pagina inicial em flex-box um abaixo do outro
+juntar o cadastro de animal e cliente numa unica página
