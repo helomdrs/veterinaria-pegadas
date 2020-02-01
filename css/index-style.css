@@ -1,22 +1,23 @@
-.image-text {
-    bottom:54%;
-    right: 15%;
-}
-
 .principalImage {
     width: 75vh;
+    margin-left: 30px;
 }
 
 .loginBtn {
     background-color: #ae340b;
     border-color: #ae340b;
-
     font-family: 'Montserrat', sans-serif;
-
-    margin-left: 20px;
 }
 
 .loginBtn:hover {
     background-color: #1a9949;
     border-color: #1a9949;
+}
+
+.flexcontainer {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
 }

@@ -1,6 +1,6 @@
 <!-- Início do Footer -->
 
-<footer class="text-center" style="padding-top: 40px;">
+<footer class="text-center" style="padding-top: 30px;">
     <p style="font-family: 'Montserrat', sans-serif;">Veterinária Pegadas &copy; Digital House São Paulo, 2020</p>
 </footer>
 

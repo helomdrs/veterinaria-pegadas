@@ -1,0 +1,1 @@
+colocar os botões da pagina inicial em flex-box um abaixo do outro
