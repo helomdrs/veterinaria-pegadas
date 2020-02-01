@@ -7,10 +7,10 @@
             <img class="principalImage" src="images/Playful_cat.svg">
         </div>
         <div class="col-6 flexcontainer">
-            <button type="button" class="loginBtn btn btn-primary btn-lg">Cadastrar Cliente</button>
-            <button type="button" class="loginBtn btn btn-primary btn-lg">Cadastrar Animal</button>
-            <button type="button" class="loginBtn btn btn-primary btn-lg">Iniciar Atendimento</button>
-            <button type="button" class="loginBtn btn btn-primary btn-lg">Consultar Prontuário</button>
+            <a href="cadastro-cliente.php"><button type="button" class="loginBtn btn btn-primary btn-lg">Cadastrar Cliente</button></a>
+            <a href="cadastro-animal.php"><button type="button" class="loginBtn btn btn-primary btn-lg">Cadastrar Animal</button></a>
+            <a href="atendimento.php"><button type="button" class="loginBtn btn btn-primary btn-lg">Iniciar Atendimento</button></a>
+            <a href="index.php"><button type="button" class="loginBtn btn btn-primary btn-lg">Consultar Prontuário</button></a>
         </div>
     </div>
 
