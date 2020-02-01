@@ -1,0 +1,22 @@
+.image-text {
+    bottom:54%;
+    right: 15%;
+}
+
+.principalImage {
+    width: 75vh;
+}
+
+.loginBtn {
+    background-color: #ae340b;
+    border-color: #ae340b;
+
+    font-family: 'Montserrat', sans-serif;
+
+    margin-left: 20px;
+}
+
+.loginBtn:hover {
+    background-color: #1a9949;
+    border-color: #1a9949;
+}
